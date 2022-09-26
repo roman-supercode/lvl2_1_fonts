@@ -1,0 +1,32 @@
+h1 {
+    font-size: 48px;
+    background-color: wheat;
+    text-shadow: 5px 5px violet;
+    font-family: Tahoma;
+}
+
+nav p {
+    text-indent: 10px;
+    word-spacing: 15px;
+    font-family: 'Lucida Sans Unicode';
+}
+
+main p {
+    text-indent: -5px;
+    word-spacing: -3px;
+}
+
+h2 {
+    text-shadow: 2px 2px yellowgreen;
+    letter-spacing: 10px;
+}
+
+section p {
+    background-color: grey;
+    line-height: 1.5;
+}
+
+aside p {
+    background-color: burlywood;
+    line-height: 1.5;
+}
